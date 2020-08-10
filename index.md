@@ -6,7 +6,7 @@ If you are looking for an ERC-721 token instead, check out [Blockies](https://bl
 
 ### Contracts
 
-The ABI [JSON](Buckie.json) includes a faucet method. You can find and interact with the smart contract using Etherscan.
+The ABI [JSON](Buckie.json) includes a faucet method. You can interact with the smart contract using Etherscan and a Web3 compatible wallet.
 
 | Network | Contract Address                                                                                                              |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------- |
