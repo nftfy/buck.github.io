@@ -1,8 +1,8 @@
-# Buck
+# Buckie
 
 An ERC-20 token sample contract for testnets.
 
-The ABI [JSON](Buck.json) includes a faucet method. You can find and interact with the smart contract using Etherscan.
+The ABI [JSON](Buckie.json) includes a faucet method. You can find and interact with the smart contract using Etherscan.
 
 | Network | Contract Address                                                                                                              |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------- |
