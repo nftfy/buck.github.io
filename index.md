@@ -17,7 +17,7 @@ The ABI [JSON](Buckie.json) includes a faucet method. You can find and interact 
 
 ### Source Code
 
-Buckie was written using the (OpenZeppelin)[https://openzeppelin.com/] library.
+Buckie was written using the [OpenZeppelin](https://openzeppelin.com/) library.
 
 ```solidity
 // Buckie
