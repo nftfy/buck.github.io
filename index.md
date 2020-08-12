@@ -40,3 +40,7 @@ contract Buckie is ERC20
 	}
 }
 ```
+
+### Support
+
+If you would like to support this page download [Brave Browser](https://brave.com/buc011). Your BAT contributions are welcome!
