@@ -8,24 +8,32 @@ If you are looking for an ERC-721 token instead, check out [Blockies](https://bl
 
 The ABI [JSON](Buckie.json) includes a faucet method. You can interact with the smart contract using Etherscan and a [Web3](https://web3js.readthedocs.io/) compatible wallet.
 
-| Network | Contract Address                                                                                                              |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| ropsten | [0xF2dA2EBfE236e067FB97409f558c5Bef41081577](https://ropsten.etherscan.io/address/0xF2dA2EBfE236e067FB97409f558c5Bef41081577) |
-| rinkeby | [0xF2dA2EBfE236e067FB97409f558c5Bef41081577](https://rinkeby.etherscan.io/address/0xF2dA2EBfE236e067FB97409f558c5Bef41081577) |
-| kovan   | [0xF2dA2EBfE236e067FB97409f558c5Bef41081577](https://kovan.etherscan.io/address/0xF2dA2EBfE236e067FB97409f558c5Bef41081577)   |
-| goerli  | [0xF2dA2EBfE236e067FB97409f558c5Bef41081577](https://goerli.etherscan.io/address/0xF2dA2EBfE236e067FB97409f558c5Bef41081577)  |
+Ethereum:
 
-| Network | Contract Address                                                                                                              |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| bsctest | [0xF2dA2EBfE236e067FB97409f558c5Bef41081577](https://testnet.bscscan.com/address/0xF2dA2EBfE236e067FB97409f558c5Bef41081577)  |
+| Network (ID)      | Contract Address                                                                                                                        |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| ropsten (3)       | [0xF2dA2EBfE236e067FB97409f558c5Bef41081577](https://ropsten.etherscan.io/address/0xF2dA2EBfE236e067FB97409f558c5Bef41081577)           |
+| rinkeby (4)       | [0xF2dA2EBfE236e067FB97409f558c5Bef41081577](https://rinkeby.etherscan.io/address/0xF2dA2EBfE236e067FB97409f558c5Bef41081577)           |
+| kovan (42)        | [0xF2dA2EBfE236e067FB97409f558c5Bef41081577](https://kovan.etherscan.io/address/0xF2dA2EBfE236e067FB97409f558c5Bef41081577)             |
+| goerli (5)        | [0xF2dA2EBfE236e067FB97409f558c5Bef41081577](https://goerli.etherscan.io/address/0xF2dA2EBfE236e067FB97409f558c5Bef41081577)            |
 
-| Network | Contract Address                                                                                                              |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| ftmtest | [0xF2dA2EBfE236e067FB97409f558c5Bef41081577](https://testnet.ftmscan.com/address/0xF2dA2EBfE236e067FB97409f558c5Bef41081577)  |
+Binance Smart Chain:
 
-| Network   | Contract Address                                                                                                                        |
-| --------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| matictest | [0xF2dA2EBfE236e067FB97409f558c5Bef41081577](https://explorer-mumbai.maticvigil.com/address/0xF2dA2EBfE236e067FB97409f558c5Bef41081577) |
+| Network (ID)      | Contract Address                                                                                                                        |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| bsctest (97     ) | [0xF2dA2EBfE236e067FB97409f558c5Bef41081577](https://testnet.bscscan.com/address/0xF2dA2EBfE236e067FB97409f558c5Bef41081577)            |
+
+Fantom Network:
+
+| Network (ID)      | Contract Address                                                                                                                        |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| ftmtest (4002)    | [0xF2dA2EBfE236e067FB97409f558c5Bef41081577](https://testnet.ftmscan.com/address/0xF2dA2EBfE236e067FB97409f558c5Bef41081577)            |
+
+Polygon Matic:
+
+| Network (ID)      | Contract Address                                                                                                                        |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| matictest (80001) | [0xF2dA2EBfE236e067FB97409f558c5Bef41081577](https://explorer-mumbai.maticvigil.com/address/0xF2dA2EBfE236e067FB97409f558c5Bef41081577) |
 
 ### Source Code
 
