@@ -21,7 +21,7 @@ Binance Smart Chain:
 
 | Network (ID)      | Contract Address                                                                                                                        |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| bsctest (97     ) | [0xF2dA2EBfE236e067FB97409f558c5Bef41081577](https://testnet.bscscan.com/address/0xF2dA2EBfE236e067FB97409f558c5Bef41081577)            |
+| bsctest (97)      | [0xF2dA2EBfE236e067FB97409f558c5Bef41081577](https://testnet.bscscan.com/address/0xF2dA2EBfE236e067FB97409f558c5Bef41081577)            |
 
 Fantom Network:
 
